@@ -38,3 +38,4 @@ if (hacker1.localeCompare(hacker2) < 0) {
 } else {
   console.log("What?! You both have the same name?");
 }
+
